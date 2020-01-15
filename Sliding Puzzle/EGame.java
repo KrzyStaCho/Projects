@@ -1,0 +1,4 @@
+public enum EGame
+{
+    GAME_PREPARE, GAME_READY, GAME_PROGRESS, GAME_WIN;
+}
